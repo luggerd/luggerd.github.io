@@ -1,11 +1,16 @@
-## Welcome to GitHub Pages
+## Welcome to Luggerd Inc
+This website will provide crucial information as to what Bitcoins are and how you can invest. I will also be giving you crucial information about the history of Bitcoin. My very best efforst will be used to explain as to what exactly Bitcoins are. 
 
-You can use the [editor on GitHub](https://github.com/luggerd/luggerd.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I know it may be very scary to think what will happen with your money when you invest but rest assure it isn't as hard as you think.
 
 ### Markdown
-
+[Youtube](youtube.com)
+<ul>
+        <li><a href="https://www.rottentomatoes.com/"><b>Rotten Tomatoes</b></a></li>
+        <li><a href="https://www.youtube.com/JeremyJahns">Yotube</a></li>
+        <li><a href="http://www.boxofficemojo.com/">Box Office</a></li>
+      </ul>
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
@@ -35,3 +40,6 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+
+ <div class="contact-btn"><a href="contact.html">Contact</a>
+      </div>
