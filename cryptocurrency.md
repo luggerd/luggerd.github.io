@@ -1,4 +1,4 @@
 ### Top CryptoCurrency in 
-# [**Bitcoin**](bitcoin.com) 
-## [**Ethereum**](ethereumprice.org)
-### [**Litecoin**](litecoin.org)
+# [**Bitcoin**](https://www.bitcoin.com/) 
+## [**Ethereum**](https://ethereum.org/)
+### [**Litecoin**](https://litecoin.org/)
