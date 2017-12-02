@@ -13,7 +13,7 @@ I know it may be very scary to think what will happen with your money when you i
       
 <a href="cryptocurrency.md">List of Top Cryptocurrency</a>
 
-<a href="gains.md">Price for Bitcoin</a>
+<a href="gains.php">Price for Bitcoin</a>
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
