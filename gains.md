@@ -1,3 +1,3 @@
-<div id="btcwidget"></div>
-<link rel="stylesheet" type="text/css" href="http://btcwidget.com/btcwidgetstyle.css">
-<script async src="http://btcwidget.com/btcwidgetsrc.js"></script>
+<a href="http://www.coincadence.com/bitcoinindex/" target="_NEW">
+    <img src="http://www.coincadence.com/api/embed/250x125" alt="Live Bitcoin Price - CoinCadence.com">
+</a>
