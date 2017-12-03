@@ -1,46 +1,6 @@
 ## Welcome to Luggerd Inc
 This website will provide crucial information as to what Bitcoins are and how you can invest. I will also be giving you crucial information about the history of Bitcoin. My very best efforst will be used to explain as to what exactly Bitcoins are. 
 
-<div class="navbar navbar-inverse navbar-fixed-top" role="navigation">
-    <div class="container">
-      <%= link_to "Brand", root_url, :class => "navbar-text navbar-left" %>
-      <%= link_to "Something", root_url, :class => "navbar-text navbar-left" %>
-      <%= link_to "Something", root_url, :class => "navbar-text navbar-right" %>
-
-      <% if user_signed_in? %>
-        <%= link_to "Something for Logged-in Users", new_charity_path,
-          :class => "navbar-text navbar-left" %>
-        <%= link_to "Logout", destroy_user_session_path, method: :delete,
-          :class => "navbar-text navbar-right" %>
-        <%= link_to "Logged in as #{current_user.email}", edit_user_registration_path,
-          :class => "navbar-text navbar-right" %> |
-      <% else %>
-        <%= link_to "Sign up", new_user_registration_path,
-          :class => "navbar-text navbar-right" %> |
-        <%= link_to "Login", new_user_session_path,
-          :class => "navbar-text navbar-right" %>
-      <% end %>
-    </div>
-  </div>
-  
-    <div class="container">
-	  <% if flash[:notice] %>
-	    <div class="alert alert-success">
-	      <%= flash[:notice] %>
-	    </div>
-	  <% elsif flash[:alert] %>
-	    <div class="alert alert-danger">
-	      <%= flash[:alert] %>
-	    </div>
-	  <% elsif flash[:error] %>
-    	<div class="alert alert-danger">
-       	<%= flash[:error] %>
-  	<% end %>
-
-		<%= yield %>
-		
-	</div>
-
 I know it may be very scary to think what will happen with your money when you invest but rest assure it isn't as hard as you think.
 
 ### Useful Links
@@ -76,21 +36,9 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
 
-<footer>
-<div class= "navbar navbar-inverse navbar-static-bottom" role="navigation">
-    <div class="navbar-text pull-left">
-    </div>
-    <div class= "navbar-text pull-right">
-<!-- Add in your social media / github links here -->
-        <a href="https://github.com/clarkdatalabs">
-            <i class="fa fa-github-square fa-2x"></i></a>
-    </div>
-    <!--Below is the copyright information for the site. You can fill in your own here.-->
-    <div class="navbar-text pull-left">
+<div class="navbar-text pull-left">
     &copy; Luggerd Inc
     </div>
-</div>	
-</footer>
 
  <div class="contact-btn"><a href="contact.md">Contact</a>
       </div>
