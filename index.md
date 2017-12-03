@@ -37,5 +37,21 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
 
+<footer>
+<div class= "navbar navbar-inverse navbar-static-bottom" role="navigation">
+    <div class="navbar-text pull-left">
+    </div>
+    <div class= "navbar-text pull-right">
+<!-- Add in your social media / github links here -->
+        <a href="https://github.com/clarkdatalabs">
+            <i class="fa fa-github-square fa-2x"></i></a>
+    </div>
+    <!--Below is the copyright information for the site. You can fill in your own here.-->
+    <div class="navbar-text pull-left">
+    &copy; Luggerd Inc
+    </div>
+</div>	
+</footer>
+
  <div class="contact-btn"><a href="contact.md">Contact</a>
       </div>
