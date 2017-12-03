@@ -10,7 +10,7 @@ I know it may be very scary to think what will happen with your money when you i
         <li><a href="http://www.boxofficemojo.com/">Box Office</a></li>
       </ul>
       
-<a href="cryptocurrency.md">List of Top Cryptocurrency</a>
+<a href="cryptocurrency.html">List of Top Cryptocurrency</a>
 
 <a href="gains.html">Price for Bitcoin</a>
 
