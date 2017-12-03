@@ -1,6 +1,45 @@
 ## Welcome to Luggerd Inc
 This website will provide crucial information as to what Bitcoins are and how you can invest. I will also be giving you crucial information about the history of Bitcoin. My very best efforst will be used to explain as to what exactly Bitcoins are. 
 
+<div class="navbar navbar-inverse navbar-fixed-top" role="navigation">
+    <div class="container">
+      <%= link_to "Brand", root_url, :class => "navbar-text navbar-left" %>
+      <%= link_to "Something", root_url, :class => "navbar-text navbar-left" %>
+      <%= link_to "Something", root_url, :class => "navbar-text navbar-right" %>
+
+      <% if user_signed_in? %>
+        <%= link_to "Something for Logged-in Users", new_charity_path,
+          :class => "navbar-text navbar-left" %>
+        <%= link_to "Logout", destroy_user_session_path, method: :delete,
+          :class => "navbar-text navbar-right" %>
+        <%= link_to "Logged in as #{current_user.email}", edit_user_registration_path,
+          :class => "navbar-text navbar-right" %> |
+      <% else %>
+        <%= link_to "Sign up", new_user_registration_path,
+          :class => "navbar-text navbar-right" %> |
+        <%= link_to "Login", new_user_session_path,
+          :class => "navbar-text navbar-right" %>
+      <% end %>
+    </div>
+  </div>
+  
+    <div class="container">
+	  <% if flash[:notice] %>
+	    <div class="alert alert-success">
+	      <%= flash[:notice] %>
+	    </div>
+	  <% elsif flash[:alert] %>
+	    <div class="alert alert-danger">
+	      <%= flash[:alert] %>
+	    </div>
+	  <% elsif flash[:error] %>
+    	<div class="alert alert-danger">
+       	<%= flash[:error] %>
+  	<% end %>
+
+		<%= yield %>
+		
+	</div>
 
 I know it may be very scary to think what will happen with your money when you invest but rest assure it isn't as hard as you think.
 
