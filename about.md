@@ -6,4 +6,6 @@ permalink: about.html
 
 # About my website
 ## Why Bitcoin?
-Hello test
+I LOVE NICOLE HANSEN.   
+    SHE IS MY WORLD.  
+  IF YOU SEE THIS KNOW THAT I DANIEL GALVEZ LOVES YOU!!!
