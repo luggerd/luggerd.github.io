@@ -1,7 +1,5 @@
 ---
-layout: page
-title: contact
-permalink: /contact/
+YAML front matter
 ---
 
 ## Best way to contact me
