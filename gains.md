@@ -2,7 +2,7 @@
 permalink: gains.html
 ---
 
-### [Home](index.md)   [Contact](contact.html)   [Price For Bitcoin](gains.html)   [About]() 
+### [Home](index.md)  [Contact](contact.html)   [Price For Bitcoin](gains.html)   [About](about.html) 
 
 <div class="btcwdgt-chart"></div>
 <script>
