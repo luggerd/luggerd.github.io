@@ -1,5 +1,5 @@
 ---
-YAML front matter
+permalink: contact.html
 ---
 
 ## Best way to contact me
