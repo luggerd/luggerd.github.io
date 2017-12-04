@@ -14,3 +14,4 @@ permalink: gains.html
     },false)
   })(document,'script','https://widgets.bitcoin.com/widget.js','btcwdgt');
 </script>
+
