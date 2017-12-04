@@ -1,3 +1,5 @@
+### [Home](index.md)   [Contact](contact.html)   [Price For Bitcoin](gains.html)   [About]() 
+
 ## Welcome to Luggerd Inc
 This website will provide crucial information as to what Bitcoins are and how you can invest. I will also be giving you crucial information about the history of Bitcoin. My very best efforst will be used to explain as to what exactly Bitcoins are. 
 
@@ -16,7 +18,7 @@ I know it may be very scary to think what will happen with your money when you i
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
+[Link](url)
 
 <div class="contact-btn"><a href="contact.html">Contact</a>
       </div>
