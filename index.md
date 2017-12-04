@@ -16,10 +16,6 @@ I know it may be very scary to think what will happen with your money when you i
 
 <a href="gains.html">Price for Bitcoin</a>
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url)
-
 <div class="contact-btn"><a href="contact.html">Contact</a>
       </div>
       
