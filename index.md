@@ -1,4 +1,4 @@
-### [Home](index.md)  [Contact](contact.html) [Price For Bitcoin](gains.html) [Invest](invest.html) [About](about.html) 
+### [Home](index.md)  [Contact](contact.html) [Price For Bitcoin](gains.html) [Invest](invest.html)  [Cryptocurrency](cryptocurrency.html) [About](about.html)
 
 ## Welcome to Luggerd Inc
 This website will provide crucial information as to what Bitcoins are and how you can invest. My very best efforst will be used to explain as to why now is the time to invest. 
@@ -36,7 +36,7 @@ We have placed a huge value on Bitcoin and so many more are getting on this hype
 <div class="contact-btn"><a href="contact.html">Contact me</a>
       </div>
 
-### [Home](index.md)  [Contact](contact.html) [Price For Bitcoin](gains.html) [Invest](invest.html) [About](about.html) 
+### [Home](index.md)  [Contact](contact.html) [Price For Bitcoin](gains.html) [Invest](invest.html)  [Cryptocurrency](cryptocurrency.html) [About](about.html)
 <div class="navbar-text pull-left">
     &copy; Luggerd Inc
     </div>
