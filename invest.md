@@ -2,7 +2,7 @@
 permalink: invest.html
 ---
 
-### [Home](index.md)  [Contact](contact.html) [Price For Bitcoin](gains.html) [Invest](invest.html) [About](about.html) 
+### [Home](index.md)  [Contact](contact.html) [Price For Bitcoin](gains.html) [Invest](invest.html)  [Cryptocurrency](cryptocurrency.html) [About](about.html)
 
 ### How do we invest?
 The first step is accepting that Bitcoin is a currency and that it has a future.
@@ -16,8 +16,7 @@ After you accpet it then the real fun part can begin.
 7. Don't be afraid if the price goes down. By the year 2035 you may be able to buy a full house with just one Bitcoin alone. 
 So don't sell!!! Invest!!!
 
-### [Home](index.md)  [Contact](contact.html) [Price For Bitcoin](gains.html) [Invest](invest.html) [About](about.html) 
-
+### [Home](index.md)  [Contact](contact.html) [Price For Bitcoin](gains.html) [Invest](invest.html)  [Cryptocurrency](cryptocurrency.html) [About](about.html)
 <div class="navbar-text pull-left">
     &copy; Luggerd Inc
     </div>
