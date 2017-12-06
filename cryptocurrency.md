@@ -4,6 +4,10 @@ permalink: cryptocurrency.html
 
 ### [Home](index.md)  [Contact](contact.html) [Price For Bitcoin](gains.html) [Invest](invest.html)  [Cryptocurrency](cryptocurrency.html) [About](about.html)
 
+<head>                                                                                                    
+  <link rel="stylesheet" type="text/css" href="main.css">
+  </head>
+
 ## Top CryptoCurrency
 # [**Bitcoin**](https://www.bitcoin.com/) 
 ## [**Ethereum**](https://ethereum.org/)
@@ -12,12 +16,9 @@ permalink: cryptocurrency.html
 
 ## Why Bitcoin?
 It's very simple as you can see in the image below.
-  <head>                                                                                                    
-  <link rel="stylesheet" type="text/css" href="main.css">
-  </head>
-  <body width = "device-width">
-  <img class="Pic"
-        src="bitcoinprice.png">
+  
+  <body>
+  <img src="bitcoinprice.png" style="max-width: 100%; height: auto;" alt="FYI, image alt text is required"/>
   </body>
   
 Source: [Coindesk](https://www.coindesk.com/)
