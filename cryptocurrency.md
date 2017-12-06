@@ -12,10 +12,7 @@ permalink: cryptocurrency.html
 
 ## Why Bitcoin?
 It's very simple as you can see in the image below.
-  <head>
-  <meta http-equiv="content-type" content="text/html; charset=ISO-8859-1">
-  <meta content="width=device-width; initial-scale=1.0; maximum-scale=1.0; user-scalable=0; name="viewport">
-                                                                                                           
+  <head>                                                                                                    
   <link rel="stylesheet" type="text/css" href="main.css">
   </head>
   <body width = "device-width">
