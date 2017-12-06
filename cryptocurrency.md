@@ -13,7 +13,7 @@ permalink: cryptocurrency.html
 ## Why Bitcoin?
 It's very simple as you can see in the image below.
 <div class="Pic">
-  <img width="678" height="400" src="bitcoinprice.png">
+  <img width="600" height="400" src="bitcoinprice.png">
   </div>
 
 Source: [Coindesk](https://www.coindesk.com/)
