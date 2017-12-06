@@ -37,10 +37,6 @@ So don't sell!!! Invest!!!
 
 <a href="gains.html">Price for Bitcoin</a>
 
-### Questions or concerns?
-<div class="contact-btn"><a href="contact.html">Contact me</a>
-      </div>
-      
 ### Useful Links
 <ul>
         <li><a href="https://www.Bitcoin.com"><b>Bitcoin</b></a></li>
@@ -48,6 +44,11 @@ So don't sell!!! Invest!!!
         <li><a href="http://a.co/9hV2qrt">Trezor</a></li>
       </ul>
       
+### Questions or concerns?
+<div class="contact-btn"><a href="contact.html">Contact me</a>
+      </div>
+
+### [Home](index.md)  [Contact](contact.html)   [Price For Bitcoin](gains.html)   [About](about.html) 
 <div class="navbar-text pull-left">
     &copy; Luggerd Inc
     </div>
