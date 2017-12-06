@@ -2,7 +2,7 @@
 permalink: about.html
 ---
 
-### [Home](index.md)  [Contact](contact.html) [Price For Bitcoin](gains.html) [Invest](invest.html) [About](about.html) 
+### [Home](index.md)  [Contact](contact.html) [Price For Bitcoin](gains.html) [Invest](invest.html)  [Cryptocurrency](cryptocurrency.html) [About](about.html)
 
 # About my website
 ## Why Invest In Bitcoin?
@@ -14,12 +14,10 @@ I also give the visitors an updated price for Bitcoin within the last minute.
 ## [How to invest?](invest.html)
 I also provide a step by step list on how you should go along of buying your very own Bitcoin with
 links to all the needed device and video for it.
-## [Security]() of Bitcoin
-I go through the weakness and defense Bitcoin has. How you can prevent yourself from being hacked.
-What to expect when investing into Bitcoin.
+## [List of Top Cryptocurrency](cryptocurrency.html)
+I make sure to introduce the other alternative Cryptocurrency available to everyone.
 
-### [Home](index.md)  [Contact](contact.html) [Price For Bitcoin](gains.html) [Invest](invest.html) [About](about.html) 
-
+### [Home](index.md)  [Contact](contact.html) [Price For Bitcoin](gains.html) [Invest](invest.html)  [Cryptocurrency](cryptocurrency.html) [About](about.html)
 <div class="navbar-text pull-left">
     &copy; Luggerd Inc
     </div>
