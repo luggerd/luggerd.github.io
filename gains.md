@@ -2,7 +2,7 @@
 permalink: gains.html
 ---
 
-### [Home](index.md)  [Contact](contact.html) [Price For Bitcoin](gains.html) [Invest](invest.html) [About](about.html) 
+### [Home](index.md)  [Contact](contact.html) [Price For Bitcoin](gains.html) [Invest](invest.html)  [Cryptocurrency](cryptocurrency.html) [About](about.html)
 
 # Current Price of Bitcoin as of Today
 
@@ -21,8 +21,7 @@ permalink: gains.html
 As you can see by looking at just the past 5 months the price of Bitcoin has shot up and hasn't stopped since.
 You could see an even larger growth within the next year but will you be looking back at this moment in time wondering why you didn't [invest](invest.html).
 
-### [Home](index.md)  [Contact](contact.html) [Price For Bitcoin](gains.html) [Invest](invest.html) [About](about.html) 
-
+### [Home](index.md)  [Contact](contact.html) [Price For Bitcoin](gains.html) [Invest](invest.html)  [Cryptocurrency](cryptocurrency.html) [About](about.html)
 <div class="navbar-text pull-left">
     &copy; Luggerd Inc
     </div>
