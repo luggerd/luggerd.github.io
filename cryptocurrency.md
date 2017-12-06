@@ -12,10 +12,15 @@ permalink: cryptocurrency.html
 
 ## Why Bitcoin?
 It's very simple as you can see in the image below.
-<div class="Pic">
+  <head>
+  <link rel="stylesheet" type="text/css" href="main.css">
+  </head>
+  <body>
+  <div class="Pic">
   <img width="600" height="400" src="bitcoinprice.png">
   </div>
-
+  </body>
+  
 Source: [Coindesk](https://www.coindesk.com/)
 
 Prices are higher than ever and growing by the second.
