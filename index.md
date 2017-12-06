@@ -1,3 +1,4 @@
+<title>Bitcoins and You</title>
 ### [Home](index.md)  [Contact](contact.html) [Price For Bitcoin](gains.html) [Invest](invest.html)  [Cryptocurrency](cryptocurrency.html) [About](about.html)
 
 ## Welcome to Luggerd Inc
