@@ -1,11 +1,5 @@
-body{
-height: 100%;
-  margin: 0;
-  text-align: center;
-  width: 100%;
-}
-
-h1{
-  font-family: "Avenir Next", sans-serif !important;
-  color: blue;
-}
+Pic{
+      max-width: 100%;
+      min-width: 300px;
+      height: auto;
+    }
