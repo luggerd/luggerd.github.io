@@ -2,7 +2,7 @@
 permalink: contact.html
 ---
 
-
+<!DOCTYPE html>
 <html>
 <head>
 <style>
